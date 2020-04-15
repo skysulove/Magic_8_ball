@@ -1,6 +1,13 @@
-Magic 8 ball. 
+**Magic 8 ball**
 ============
-### Desc
+
+### [Magic 8 ball](https://ru.wikipedia.org/wiki/Magic_8_ball)
+
+This program is written in `Ruby`
+
+### Description
+
+![enter image description here](https://ae01.alicdn.com/kf/HTB1zvxAB5CYBuNkHFCcq6AHtVXao.jpg)
 
 The Magic Ball 8 program will answer any of your questions, 
 satisfying your curiosity, and will allow you to have fun 
@@ -13,7 +20,10 @@ Ruby v.2.7.0
 ### How-to-use
 
 ```bash
-[~/Magik_8_ball]$ ruby 8ball.rb
+ruby main.rb
 ```
 The program will greet you and after listening to a question, 
 you will get an answer to it
+
+### Authors
+Lex Gnatovsky [skysulove](https://github.com/skysulove)
