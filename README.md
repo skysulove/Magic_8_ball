@@ -14,7 +14,7 @@ Ruby v.2.7.0
 ### How-to-use
 
 ```bash
-[~/user]$ ruby 8ball.rb
+[~/Magik_8_ball]$ ruby 8ball.rb
 ```
 The program will greet you and after listening to a question, 
 you will get an answer to it
