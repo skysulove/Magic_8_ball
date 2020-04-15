@@ -1,6 +1,5 @@
-**[Magic 8 ball](https://ru.wikipedia.org/wiki/Magic_8_ball). (This program is written in `Ruby`** )
+Magic 8 ball. 
 ============
-
 ### Desc
 
 The Magic Ball 8 program will answer any of your questions, 
