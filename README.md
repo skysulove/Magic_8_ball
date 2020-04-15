@@ -9,7 +9,7 @@ both in company and in private with yourself.
 
 ### Requirements
 
-Ruby = 2.7.0
+Ruby v.2.7.0
 
 ### How-to
 
