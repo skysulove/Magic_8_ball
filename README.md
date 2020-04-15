@@ -11,7 +11,7 @@ both in company and in private with yourself.
 
 Ruby v.2.7.0
 
-### How-to
+### How-to-use
 
 ```bash
 [~/user]$ ruby 8ball.rb
