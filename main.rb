@@ -1,45 +1,45 @@
-# Объявили переменную answers и записали в нее массив строк.
+# Declared the answers variable and write an array of strings to it.
 answers = [
-  # Положительные:
-  "Бесспорно",
-  "Предрешено",
-  "Никаких сомнений",
-  "Определённо да",
-  "Можешь быть уверен в этом",
+  # Positive:
+  "It is certain",
+  "It is decidedly so",
+  "Without a doubt",
+  "Yes — definitely",
+  "You may rely on it",
 
-  # Нерешительно положительные:
-  "Мне кажется — «да»",
-  "Вероятнее всего",
-  "Хорошие перспективы",
-  "Знаки говорят — «да»",
-  "Да",
+  # Indecisively positive:
+  "As I see it, yes ",
+  "Most likely ",
+  "Outlook good ",
+  "Signs point to yes",
+  "Yes",
 
-  # Нейтральные:
-  "Пока не ясно, попробуй снова",
-  "Спроси позже",
-  "Лучше не рассказывать",
-  "Сейчас нельзя предсказать",
-  "Сконцентрируйся и спроси опять",
+  # Neutral:
+  "Reply hazy, try again",
+  "Ask again later",
+  "Better not tell you now",
+  "Cannot predict now",
+  "Concentrate and ask again",
 
-  # Отрицательные:
-  "Даже не думай",
-  "Мой ответ — «нет»",
-  "По моим данным — «нет»",
-  "Перспективы не очень хорошие",
-  "Весьма сомнительно"
+  # Negative:
+  "Don’t count on it",
+  "My reply is no",
+  "My sources say no",
+  "Outlook not so good",
+  "Very doubtful"
 ]
 
-# Объявили переменную greetings и записали в нее массив строк.
+# They declared the greetings variable and wrote an array of strings into it.
 greetings = [
-  "Привет, дорогой друг. Отвечаю на твой вопрос...",
-  "Кто вопрошает, тот получит ответ:",
-  "Здравствуй, смертный. Сегодня для тебя такой ответ:"
+  "Hello, dear friend. I am answering your question ...",
+  "He who asks will receive the answer:",
+  "Hello, mortal. Today is the answer for you:"
 ]
 
-# Выводим случайный элемент массива с приветствиями.
+# Output a random array element with greetings.
 puts greetings.sample
 puts
-# Задержка ответа на 2 секунды.
+# 2 second response delay.
 sleep 2
-# Выводим случайный элемент массива с ответами.
+# Output a random array element with answers.
 puts answers.sample
