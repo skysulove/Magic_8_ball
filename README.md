@@ -26,4 +26,4 @@ The program will greet you and after listening to a question,
 you will get an answer to it
 
 ### Authors
-Lex Gnatovsky [skysulove](https://github.com/skysulove)
+[Lex Gnatovsky](https://github.com/skysulove)
