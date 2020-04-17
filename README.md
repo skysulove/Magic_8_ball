@@ -2,7 +2,6 @@
 ============
 
 ### [About the game](https://ru.wikipedia.org/wiki/Magic_8_ball)
-
 This program is written in `Ruby`
 
 ### Description
